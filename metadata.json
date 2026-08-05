@@ -1,0 +1,6 @@
+{
+  "name": "Delowar Network - সুপারফাস্ট ইন্টারনেট সার্ভিস",
+  "description": "বাংলাদেশের অন্যতম নির্ভরযোগ্য প্রফেশনাল ও রেসপন্সিভ ইন্টারনেট সার্ভিস প্রোভাইডার ওয়েবসাইট",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
